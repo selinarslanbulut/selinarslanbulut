@@ -16,7 +16,7 @@
   <a href="mailto:arslanbulutselin@outlook.com"><img src="https://camo.githubusercontent.com/48459aeb605af13fd3870f37097997d2fb54fa6d37b924b514ea4aa81a64403e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f75746c6f6f6b2d3030373844342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742532306f75746c6f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Outlook-0078D4.svg?&amp;style=for-the-badge&amp;logo=microsoft%20outlook&amp;logoColor=white" style="max-width: 100%;"></a>
 </div>
 
-
+<hr>
 
 
 
@@ -24,7 +24,7 @@
   <img src="https://media.giphy.com/media/i65gP0s9CqG5TRagmk/giphy.gif" width=30px/>
   About Me :
 </h1>
-
+<hr>
 
 
 
@@ -49,14 +49,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" **alt="Bitbucket" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
 </div>
+<hr>
 
 
 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=selinarslanbulut&show_icons=true&theme=radical)
+<hr>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=selinarslanbulut&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selinarslanbulut&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
