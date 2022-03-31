@@ -22,7 +22,6 @@
 
 <h3>
   <img src="https://media.giphy.com/media/i65gP0s9CqG5TRagmk/giphy.gif" width=30px/>
-  About Me :
 </h1>
 <hr>
 
